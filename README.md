@@ -5,13 +5,13 @@
 I studied Computer Science for years and I specialized in **Data Science** 💻
 
 <h3>Educational Journey:</h3>
-<p>
-- 📔 Mcs in Data Science at Università degli Studi di Firenze (September 2021 - Current);</p>
-<p>
-- 📔 Bcs at Università degli Studi di Firenze (July 2021):
-  Thesis: EXPERIMENTATION OF THE MQTT PROTOCOL AND CREATION OF AN APPLICATION FOR THE USE CASE OF THE AUTOMATIC COUNTING OF PEOPLE;
+<h4>
+- 📔 Mcs in Data Science at Università degli Studi di Firenze (September 2021 - Current);</h4>
+<h4>
+- 📔 Bcs at Università degli Studi di Firenze (July 2021):</h4>
+  <p> Thesis: EXPERIMENTATION OF THE MQTT PROTOCOL AND CREATION OF AN APPLICATION FOR THE USE CASE OF THE AUTOMATIC COUNTING OF PEOPLE;</p>
 
-</p>
+
 <hr>
 
 Inside this GitHub account there are all my **most important projects** ⚙️, including:
