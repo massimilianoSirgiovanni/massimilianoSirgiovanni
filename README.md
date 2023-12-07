@@ -1,15 +1,26 @@
-### Hello there!
-My name is Massimiliano and I studied Computer Science and specialized in Data Science.
+<h2>My name is Massimiliano Sirgiovanni and this is my Github profile 🦆</h2>
 
-Inside this GitHub account there are all my **most important projects**, including:
+<img src=intro_img.png> 
+
+I studied Computer Science for years and I specialized in **Data Science** 💻
+<h4>Educational Journey:</h4>
+- 📔 Mcs in Data Science at Università degli Studi di Firenze (September 2021 - Current)
+- 📔 Bcs at Università degli Studi di Firenze (July 2021)
+  Thesis: EXPERIMENTATION OF THE MQTT PROTOCOL AND CREATION OF AN APPLICATION FOR THE USE CASE OF THE AUTOMATIC COUNTING OF PEOPLE
+
+Inside this GitHub account there are all my **most important projects** ⚙️, including:
 - <a href=https://github.com/massimilianoSirgiovanni/PersonCounter_Thesis_Project>Shop Person Counter</a>
-  <p>The prototype of a Progressive Web Application (PWA) developed for my three-year thesis, in which the MQTT communication protocol was studied and applied (in Java and HTML for the front-end);</p>-<-
+  <p>The prototype of a Progressive Web Application (PWA) developed for my three-year thesis, in which the MQTT communication protocol was studied and applied (in Java and HTML for the front-end);</p>
 - <a href=https://github.com/massimilianoSirgiovanni/ProjectsParallelComputing/tree/main/K-Means>Parallel K-Means</a>
   <p>Project for the Parallel Computing exam, related to the parallelization of the K-Means algorithm (in C);
 - <a href=https://github.com/massimilianoSirgiovanni/ProjectsParallelComputing/tree/main/Bloom-Filter>Parallel Bloom Filter</a>
   <p>Projects for the Parallel Computing exam, related to the parallelization of the Bloom filter (in Python);</p>
 - <a href=https://github.com/massimilianoSirgiovanni/IMDB-DatasetAnalysis>Analysis of the IMDB dataset</a>
   <p>Project for the examination of Algorithms for Massive Data, in which it was necessary to carry out analyzes on the IMDB database, containing millions of films (in Python);</p>
+- <a href=https://github.com/massimilianoSirgiovanni/Films_Ontology>Films Ontolofy</a>
+  <p>Data Warehousing exam project consisting in the creation of an ontology for film production (using Proteje);</p>
+- <a href=https://github.com/massimilianoSirgiovanni/Matlab-Interface-for-curveEvaluation-Algorithms>Matlab Interface for Curve Evaluation Algorithms</a>
+  <p>Project for the exam of Numerical Methods for Graphics, in which an interface for the curve evaluation algorithms of De Casteljau and De Boor was implemented (in Matlab);</p>
 - <a href=https://github.com/massimilianoSirgiovanni/botTelegram>Card Game: Bot Telegram</a>
   <p>A telegram bot that I own, whose operation is similar to a card game (in Python);</p>
 - <a href=https://github.com/massimilianoSirgiovanni/MusicGenerationThesis>Music Generation with AI</a>
