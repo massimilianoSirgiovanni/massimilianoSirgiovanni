@@ -3,10 +3,16 @@
 <img src=intro_img.png> 
 
 I studied Computer Science for years and I specialized in **Data Science** 💻
-<h4>Educational Journey:</h4>
-- 📔 Mcs in Data Science at Università degli Studi di Firenze (September 2021 - Current)
-- 📔 Bcs at Università degli Studi di Firenze (July 2021)
-  Thesis: EXPERIMENTATION OF THE MQTT PROTOCOL AND CREATION OF AN APPLICATION FOR THE USE CASE OF THE AUTOMATIC COUNTING OF PEOPLE
+
+<h3>Educational Journey:</h3>
+<p>
+- 📔 Mcs in Data Science at Università degli Studi di Firenze (September 2021 - Current);</p>
+<p>
+- 📔 Bcs at Università degli Studi di Firenze (July 2021):
+  Thesis: EXPERIMENTATION OF THE MQTT PROTOCOL AND CREATION OF AN APPLICATION FOR THE USE CASE OF THE AUTOMATIC COUNTING OF PEOPLE;
+
+</p>
+<hr>
 
 Inside this GitHub account there are all my **most important projects** ⚙️, including:
 - <a href=https://github.com/massimilianoSirgiovanni/PersonCounter_Thesis_Project>Shop Person Counter</a>
