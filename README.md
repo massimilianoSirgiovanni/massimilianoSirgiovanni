@@ -4,7 +4,7 @@
 
 I studied Computer Science for years and I specialized in **Data Science** 💻
 
-<h3>Educational Journey:</h3>
+<h3>Educational Journey 🎒</h3>
 <h4>
 - 📔 Mcs in Data Science at Università degli Studi di Firenze (September 2021 - Current);</h4>
 <h4>
