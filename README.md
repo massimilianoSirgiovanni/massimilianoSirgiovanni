@@ -25,8 +25,6 @@ Inside this GitHub account there are all my **most important projects** ⚙️, 
   <p>Project for the examination of Algorithms for Massive Data, in which it was necessary to carry out analyzes on the IMDB database, containing millions of films (in Python) [in collaboration with: <a href=https://github.com/guidociardi>Ciardi Guido</a>];</p>
 - <a href=https://github.com/massimilianoSirgiovanni/Films_Ontology>Films Ontolofy</a> 🎬 *(September 2022)*
   <p>Data Warehousing exam project consisting in the creation of an ontology for film production (using Proteje);</p>
-- <a href=https://github.com/massimilianoSirgiovanni/botTelegram>Card Game: Bot Telegram</a> 🃏 *(September 2022)*
-  <p>A telegram bot that I own, whose operation is similar to a card game (in Python);</p>
 - <a href=https://github.com/massimilianoSirgiovanni/CNN-From-Scratch>CNN from Scratch</a> 🖼 *(February 2023)*
   <p>Project for the Computational Learning exam in which it was necessary to implement, from scratch, a neural network for image classification, more precisely a CNN (in Python);</p>
 - <a href=https://github.com/massimilianoSirgiovanni/Penguins-Relationship-Analysis>Penguin's Relationships Analysis</a> 🐧 *(May 2023)*
