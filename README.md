@@ -15,6 +15,10 @@ I studied Computer Science for years and I specialized in **Data Science** 💻
 <hr>
 
 Inside this GitHub account there are all my **most important projects** ⚙️, including:
+- <a href=https://github.com/massimilianoSirgiovanni/Project-Property-Tax>Property Tax Evaluation</a> 🏘 *(December 2018)*
+  <p>Project for the Programming Methodologies exam, in which an application was created that simulates the behavior of a banking app for the study of design patterns (in Java) [in collaboration with: Boddi Gabriele]</p>
+- <a href=https://github.com/massimilianoSirgiovanni/Encryption-System-in-MIPS>Encryption System</a> 📠 *(September 2019)*
+  <p>Project for the examination of Computer Architectures whose objective was the creation of some encryption methods (with relative decryption) in Assembly MIPS</p>
 - <a href=https://github.com/massimilianoSirgiovanni/PersonCounter_Thesis_Project>Automatic People Counter</a> 🛍 *(January 2021)*
   <p>The prototype of a Progressive Web Application (PWA) developed for my three-year thesis, in which the MQTT communication protocol was studied and applied (in Java and HTML for the front-end);</p>
 - <a href=https://github.com/massimilianoSirgiovanni/ProjectsParallelComputing/tree/main/K-Means>Parallel K-Means</a> ⏩ *(February 2022)*
