@@ -36,7 +36,7 @@ Inside this GitHub account there are all my **most important projects** ⚙️, 
      [in collaboration with: <a href=https://github.com/guidociardi>Ciardi Guido</a>, <a href=https://github.com/JosephMartinelli>Martinelli Giuseppe</a> and <a href=https://github.com/federicatosi>Tosi Federica</a>];</p>
 - <a href=https://github.com/massimilianoSirgiovanni/Matlab-Interface-for-curveEvaluation-Algorithms>Matlab Interface for Curve Evaluation Algorithms</a> 〽️ *(June 2023)*
   <p>Project for the exam of Numerical Methods for Graphics, in which an interface for the curve evaluation algorithms of De Casteljau and De Boor was implemented (in Matlab);</p>
-- <a href=https://github.com/massimilianoSirgiovanni/MusicGenerationThesis>Music Generation with AI</a> 🎶 *(Current)*
+- <a href=https://github.com/massimilianoSirgiovanni/MusicGenerationThesis>Music Generation with AI</a> 🎶 *(April 2024)*
   <p>The application developed for the master's thesis on the generation of music through artificial intelligence (in Python).</p>
 
 <hr>
