@@ -2,7 +2,15 @@
 
 <img src=intro_img.png> 
 
-I studied Computer Science for years and I specialized in **Data Science** 💻
+I studied Computer Science for years and I specialized in **Data Science** and **AI Engineering** 💻
+
+<h3>Work Experiences 💼</h3>
+<h4>Junior Data Scientist 📊 at TECHENGINES.AI (May 2024 – Present)</h4>
+<p>I manage end-to-end Data Science projects, with a strong focus on Natural Language Processing and the application of Large Language Models (LLMs).
+
+My role covers the entire data lifecycle: from the collection and preprocessing of structured and unstructured data, to the design and optimization of AI model-based pipelines. I also handle postprocessing, results analysis, and the presentation of insights to clients, aiming to transform data into concrete, valuable solutions.</p>
+
+
 
 <h3>Educational Journey 🎒</h3>
 <h4>
