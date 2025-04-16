@@ -5,11 +5,15 @@
 I studied Computer Science for years and I specialized in **Data Science** and **AI Engineering** 💻
 
 <h3>Work Experiences 💼</h3>
-<h4>Junior Data Scientist 📊 at TECHENGINES.AI (May 2024 – Present)</h4>
-<p>I manage end-to-end Data Science projects, with a strong focus on Natural Language Processing and the application of Large Language Models (LLMs).
+<h4>Data Scientist 📊 at TECHENGINES.AI (May 2024 – Present)</h4>
+<p>> Designed and optimized NLP pipelines using LLMs (e.g., Gemini
+1.5, Gemma 2), covering the full data lifecycle—from data collection and preprocessing to model pipeline design, optimization,
+and delivery of actionable insights to clients, supporting their
+digital transformation initiatives
+> The pipeline complexity was optimized, resulting in constant execution time with respect to input length.</p>
 
-My role covers the entire data lifecycle: from the collection and preprocessing of structured and unstructured data, to the design and optimization of AI model-based pipelines. I also handle postprocessing, results analysis, and the presentation of insights to clients, aiming to transform data into concrete, valuable solutions.</p>
-
+<h4>Undergraduate Internship 💻 at Magenta S.R.L. (Oct 2020 – Jan 2021)</h4>
+<p>> Testing of the MQTT protocol and creation of an application prototype for the use case of automatic people counting</p>
 
 
 <h3>Educational Journey 🎒</h3>
