@@ -6,13 +6,14 @@ I studied Computer Science for years and I specialized in **Data Science** and *
 
 <h3>Work Experiences 💼</h3>
 <h4>Data Scientist 📊 at TECHENGINES.AI (May 2024 – Present)</h4>
-<p>> <b>DNLP	project,	Risk	Assessment bot</b>: Developed	a	bot	that	transcribes	user-operator	audio	
+<p>
+><b>DNLP	project,	Risk	Assessment bot</b>: Developed	a	bot	that	transcribes	user-operator	audio	
 conversations,	assesses	users'	risk	levels	for	contract	agreements,	and	evaluates	operators'	
 performance	in	real-time.	Leveraged	an LLM	with	some
 detailed	prompts.	The pipeline complexity was optimized, resulting in constant execution time with respect to input length.
 Achieved over	90%	precision	in	risk	assessments,	and	processed	over	
 5000	calls	weekly.
-<\p>
+</p>
 <p>
 > <b>Customer service Chatbot</b>: Developed a chatbot capable of responding to user requests by autonomously handling their issues through a problem identification and classification phase, followed by a data collection phase necessary for resolution.
 </p>
