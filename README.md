@@ -6,11 +6,16 @@ I studied Computer Science for years and I specialized in **Data Science** and *
 
 <h3>Work Experiences 💼</h3>
 <h4>Data Scientist 📊 at TECHENGINES.AI (May 2024 – Present)</h4>
-<p>> Designed and optimized NLP pipelines using LLMs (e.g., Gemini
-1.5, Gemma 2), covering the full data lifecycle—from data collection and preprocessing to model pipeline design, optimization,
-and delivery of actionable insights to clients, supporting their
-digital transformation initiatives
-> The pipeline complexity was optimized, resulting in constant execution time with respect to input length.</p>
+<p>> <b>DNLP	project,	Risk	Assessment bot</b>: Developed	a	bot	that	transcribes	user-operator	audio	
+conversations,	assesses	users'	risk	levels	for	contract	agreements,	and	evaluates	operators'	
+performance	in	real-time.	Leveraged	an LLM	with	some
+detailed	prompts.	The pipeline complexity was optimized, resulting in constant execution time with respect to input length.
+Achieved over	90%	precision	in	risk	assessments,	and	processed	over	
+5000	calls	weekly.
+<\p>
+<p>
+> <b>Customer service Chatbot</b>: Developed a chatbot capable of responding to user requests by autonomously handling their issues through a problem identification and classification phase, followed by a data collection phase necessary for resolution.
+</p>
 
 <h4>Undergraduate Internship 💻 at Magenta S.R.L. (Oct 2020 – Jan 2021)</h4>
 <p>> Testing of the MQTT protocol and creation of an application prototype for the use case of automatic people counting</p>
