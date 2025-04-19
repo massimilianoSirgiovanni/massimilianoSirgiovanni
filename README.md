@@ -28,6 +28,8 @@ digital transformation initiatives
 <hr>
 
 Inside this GitHub account there are all my **most important projects** ⚙️, including:
+- <a href=https://github.com/massimilianoSirgiovanni/GitHub_Overview_Summary_Tool>G.H.O.S.T. (GitHub Overview & Summary Tool)</a> 🎶 *(April 2025)*
+  <p>Chatbot capable of reading a GitHub user's profile page in real-time, in order to answer questions related to that specific profile. (in Python).</p>
 - <a href=https://github.com/massimilianoSirgiovanni/MusicGenerationThesis>Music Generation with AI</a> 🎶 *(April 2024)*
   <p>The application developed for the master's thesis on the generation of music through artificial intelligence (in Python).</p>
 - <a href=https://github.com/massimilianoSirgiovanni/Matlab-Interface-for-curveEvaluation-Algorithms>Matlab Interface for Curve Evaluation Algorithms</a> 〽️ *(June 2023)*
